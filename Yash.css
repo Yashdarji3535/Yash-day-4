@@ -1,0 +1,69 @@
+body
+{
+    background-color: gold;
+}
+#Yash{
+
+    background-color: aqua;
+    border: solid 10px;
+    height: 150px;
+    width: 200px;
+    text-align:center;
+    padding-top: 75px;
+    border-radius: 20px;
+}
+#Maheshbhai{
+
+    background-color: brown;
+    text-align: center;
+    border-radius: 20px;
+    border: solid 10px;
+    height: 150px;
+    width: 200px;
+    padding-top: 75px;
+    margin-left: 250px;
+}
+#Darji{
+    background-color:rgb(38, 212, 14);
+    border-radius: 20px;
+    border: solid 10px;
+    height: 150px;
+    width: 200px;
+    padding-top: 75px;
+    margin-left: 500px;
+    text-align: center;
+
+}
+#Yash:hover{
+    color: rgba(20, 18, 17, 0.808);
+    background-color: rgb(219, 78, 113);
+    border-color:rgba(255, 0, 13, 0.596);
+}
+#Maheshbhai:hover{
+    color: rgb(10, 238, 59);
+    background-color: blueviolet;
+    border-color: darkgreen;
+}
+#Darji:hover{
+    color: brown;
+    background-color:rgb(218, 164, 65);
+    border-color: darkslategrey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
